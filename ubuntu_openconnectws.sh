@@ -2,10 +2,10 @@
 cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
-db_host='82.223.165.66';
-db_user='xvpnbuild_vpn';
-db_pass='xvpnbuild_vpn';
-db_name='xvpnbuild_vpn';
+db_host='174.138.183.243';
+db_user='abolirez_gtt';
+db_pass='@@@@F1r3n3t';
+db_name='abolirez_gtt';
 
 install_require()
 {
